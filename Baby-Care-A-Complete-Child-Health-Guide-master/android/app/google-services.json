@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435716478806",
+    "project_id": "kidz-5ded5",
+    "storage_bucket": "kidz-5ded5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435716478806:android:36c78657a07cd0031e28f7",
+        "android_client_info": {
+          "package_name": "com.example.whats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjMrZEHWGIo5yD8g_eA7FOgoqIUz6KAs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
